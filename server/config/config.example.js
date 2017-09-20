@@ -4,7 +4,7 @@
 
 module.exports = {
   db: {
-    uri: 'mongodb://tran:no12trust@ds127044.mlab.com:27044/island_alpha', //place the URI of your mongo database here.
+    uri: '', //place the URI of your mongo database here.
   }, 
   googleMaps: {
     key: ''
